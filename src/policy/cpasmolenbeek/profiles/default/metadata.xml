@@ -1,4 +1,21 @@
 <?xml version="1.0"?>
 <metadata>
   <version>0001</version>
+  	<dependencies>
+		<dependency>profile-collective.ckeditor:default</dependency>
+		<dependency>profile-Solgema.fullcalendar:default</dependency>
+		<dependency>profile-collective.plonefinder:default</dependency>
+		<dependency>profile-quintagroup.dropdownmenu:default</dependency>
+		<dependency>profile-Products.LinguaPlone:LinguaPlone</dependency>
+		<dependency>profile-collective.quickupload:default</dependency>
+		<dependency>profile-Products.PloneFormGen:default</dependency>
+		<dependency>profile-Solgema.ContextualContentMenu:default</dependency>
+		<dependency>profile-collective.js.jqueryui:default</dependency>
+		<dependency>profile-plone.app.theming:default</dependency>
+		<dependency>profile-collective.js.fullcalendar:default</dependency>
+		<dependency>profile-collective.js.colorpicker:default</dependency>
+		<dependency>profile-plone.app.jquerytools:default</dependency>
+	 	<dependency>profile-collective.anysurfer:default</dependency>
+		<dependency>profile-CPASMolenbeek.site:default</dependency>
+	</dependencies>
 </metadata>

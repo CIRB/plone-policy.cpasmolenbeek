@@ -15,5 +15,22 @@
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
   <!-- -*- extra stuff goes here -*- -->
-  
+  <include package="collective.ckeditor" />
+  <include package="collective.plonefinder" />
+  <include package="quintagroup.dropdownmenu" />
+  <include package="collective.quickupload" />
+  <include package="collective.js.jqueryui" />
+  <include package="collective.quickupload" />
+  <include package="Products.PloneFormGen" />
+  <include package="Solgema.ContextualContentMenu" />
+  <include package="Solgema.fullcalendar" />
+  <include package="collective.js.colorpicker" />
+  <include package="collective.js.fullcalendar" />
+  <include package="plone.app.jquerytools" />
+  <include package="plone.app.theming" />
+  <include package="Products.LinguaPlone" />
+  <include package="collective.anysurfer" />
+  <include package="collective.portlet.videoanysurfer" />
+  <include package="collective.videoanysurfer" />
+  <include package="CPASMolenbeek.site" />  
 </configure>
