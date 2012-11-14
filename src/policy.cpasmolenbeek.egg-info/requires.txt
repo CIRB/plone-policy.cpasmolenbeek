@@ -1,4 +1,22 @@
 setuptools
+collective.ckeditor
+collective.plonefinder
+quintagroup.dropdownmenu
+Products.LinguaPlone
+collective.js.jqueryui
+collective.quickupload
+Products.PloneFormGen
+Solgema.ContextualContentMenu
+Solgema.fullcalendar
+collective.js.colorpicker
+collective.js.fullcalendar
+plone.app.jquerytools
+plone.app.theming
+collective.anysurfer
+collective.portlet.videoanysurfer
+collective.videoanysurfer
+collective.linguafaq
+CPASMolenbeek.site
 
 [test]
 plone.app.testing
